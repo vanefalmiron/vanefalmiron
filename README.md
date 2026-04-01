@@ -22,7 +22,7 @@
 ║                        ABOUT_ME.TXT                          ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  Usuario    : vanefalmiron                                   ║
-║  Ubicación  : Mundo 🌎                                      ║
+║  Ubicación  : España 🇪🇸                                      ║
 ║  Formación  : Ingeniería Industrial 🏭 + ASIR (en curso) 💻   ║
 ║  Estado     : 🌱 Principiante explorando la programación      ║
 ║               con IA como herramienta principal               ║
@@ -98,15 +98,15 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=vanefalmiron&show_icons=true&theme=terminal&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=33ff33&icon_color=33ff33&text_color=aaffaa"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanefalmiron&layout=compact&theme=terminal&hide_border=true&bg_color=0a0a0a&title_color=33ff33&text_color=aaffaa"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vanefalmiron&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanefalmiron&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanefalmiron&theme=dark&hide_border=true&background=0A0A0A&stroke=33ff33&ring=33ff33&fire=aaffaa&currStreakNum=ffffff&sideNums=aaffaa&currStreakLabel=33ff33&sideLabels=33ff33&dates=555555)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanefalmiron&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -140,15 +140,6 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 ```
 
 ---
-
-```bash
-┌──(vanefalmiron㉿github)-[~]
-└─$ cat support.txt
-```
-
-```
-
-</div>
 
 ---
 
