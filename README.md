@@ -22,7 +22,7 @@
 ║                        ABOUT_ME.TXT                          ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  Usuario    : vanefalmiron                                   ║
-║  Ubicación  : España 🇪🇸                                      ║
+║  Ubicación  : Mundo 🌎                                      ║
 ║  Formación  : Ingeniería Industrial 🏭 + ASIR (en curso) 💻   ║
 ║  Estado     : 🌱 Principiante explorando la programación      ║
 ║               con IA como herramienta principal               ║
@@ -146,23 +146,6 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 └─$ cat support.txt
 ```
 
-## ☕ ¿Quieres apoyar mi aprendizaje?
-
-```
-Si mis proyectos te han sido útiles, puedes invitarme
-a un café virtual. ¡Se agradece muchísimo! 🙏
-```
-
-<div align="center">
-
-| Red | Dirección |
-|-----|-----------|
-| 🟡 **Binance** | `TU_WALLET_BINANCE` |
-| 🔴 **KuCoin** | `TU_WALLET_KUCOIN` |
-
-```diff
-! Verifica siempre la red antes de enviar
-+ Acepto USDT — TRC-20 / BEP-20
 ```
 
 </div>
