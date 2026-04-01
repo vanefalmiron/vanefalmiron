@@ -19,15 +19,15 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                        ABOUT_ME.TXT                          ║
+║                       ABOUT_ME.TXT                           ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  Usuario    : vanefalmiron                                   ║
-║  Ubicación  : España 🇪🇸                                      ║
-║  Formación  : Ingeniería Industrial 🏭 + ASIR (en curso) 💻   ║
-║  Estado     : 🌱 Principiante explorando la programación      ║
-║               con IA como herramienta principal               ║
-║  Fun fact   : Uso Claude y ChatGPT como copiloto para         ║
-║               aprender más rápido 🤖                          ║
+║  Ubicacion  : Mundo                                          ║
+║  Formacion  : Ingenieria Industrial + ASIR (en curso)        ║
+║  Estado     : Principiante explorando la programacion        ║
+║               con IA como herramienta principal              ║
+║  Fun fact   : Uso Claude y ChatGPT como copiloto             ║
+║               para aprender mas rapido                       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
