@@ -60,6 +60,11 @@
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=33ff33)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=33ff33)
 
+### `// Automatizacion`
+![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=33ff33)
+![Zapier](https://img.shields.io/badge/Zapier-000000?style=for-the-badge&logo=zapier&logoColor=33ff33)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=33ff33)
+
 ### `// Entornos`
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=33ff33)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=33ff33)
@@ -98,14 +103,6 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanefalmiron&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanefalmiron&layout=compact&theme=chartreuse-dark&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=vanefalmiron&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -140,23 +137,6 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 ```
 
 ---
-
----
-
-```bash
-┌──(vanefalmiron㉿github)-[~]
-└─$ cat contacto.txt
-```
-
-## 📡 Conecta conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=33ff33)](https://linkedin.com/in/vanefalmiron)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=33ff33)](https://github.com/vanefalmiron)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=33ff33)](mailto:TU_EMAIL@gmail.com)
-
-</div>
 
 ---
 
