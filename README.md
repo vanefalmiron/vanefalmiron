@@ -86,8 +86,8 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 
 | `$` | Proyecto | Descripción | Stack | Estado |
 |-----|----------|-------------|-------|--------|
-| 🤖 | **mis-templos** (https://github.com/vanefalmiron/mis-templos) |           En proceso              |              `Python`                | `[██░░░░░░] WIP`|
-| 🌐 | **Gastos-Casa**(https://github.com/vanefalmiron/Gastos-Casa) | Automatización de Tickets con IA  | `MAKE/Telegram/OpenAI/Google Sheets` | `[██████] DONE` |       
+| 🤖 | [mis-templos](https://github.com/vanefalmiron/mis-templos) |           En proceso              |              `Python`                | `[██░░░░░░] WIP`|
+| 🌐 | [Gastos-Casa](https://github.com/vanefalmiron/Gastos-Casa) | Automatización de Tickets con IA  | `MAKE/Telegram/OpenAI/Google Sheets` | `[██████] DONE` |       
 | ⚙️ | **Proyecto 3**  |            Pendiente              |             `Bash/Linux`             | `[░░░░░░] SOON` |
 
 <!-- Reemplaza con tus repos reales y enlaza: [Nombre](https://github.com/vanefalmiron/repo) -->
