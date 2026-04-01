@@ -86,9 +86,9 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 
 | `$` | Proyecto | Descripción | Stack | Estado |
 |-----|----------|-------------|-------|--------|
-| 🤖 | **Proyecto 1** | Breve descripción aquí | `Python` | `[██░░░░] WIP` |
-| 🌐 | **Proyecto 2** | Breve descripción aquí | `HTML/CSS/JS` | `[██████] DONE` |
-| ⚙️ | **Proyecto 3** | Breve descripción aquí | `Bash/Linux` | `[░░░░░░] SOON` |
+| 🤖 | **mis-templos** (https://github.com/vanefalmiron/mis-templos) |           En proceso              |              `Python`                | `[██░░░░░░] WIP`|
+| 🌐 | **Gastos-Casa**(https://github.com/vanefalmiron/Gastos-Casa) | Automatización de Tickets con IA  | `MAKE/Telegram/OpenAI/Google Sheets` | `[██████] DONE` |       
+| ⚙️ | **Proyecto 3**  |            Pendiente              |             `Bash/Linux`             | `[░░░░░░] SOON` |
 
 <!-- Reemplaza con tus repos reales y enlaza: [Nombre](https://github.com/vanefalmiron/repo) -->
 
@@ -138,18 +138,9 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 
 ---
 
----
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=vanefalmiron&color=33ff33&style=for-the-badge&label=VISITAS)
 
 ```
 > "El mejor momento para aprender fue hace 10 años."
 > "El segundo mejor momento es ahora."
 > █
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:000000&height=60&text=EOF&fontSize=14&fontColor=33ff33&stroke=33ff33&strokeWidth=1" width="100%"/>
-
-</div>
