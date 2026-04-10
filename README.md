@@ -98,15 +98,6 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 ┌──(vanefalmiron㉿github)-[~]
 └─$ ./stats.sh --user vanefalmiron
 ```
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanefalmiron&theme=chartreuse-dark&hide_border=true)](https://github.com/vanefalmiron)
-
-</div>
-
 ---
 
 ```bash
