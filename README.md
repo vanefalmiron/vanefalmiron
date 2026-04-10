@@ -96,12 +96,6 @@ drwxr-xr-x  vanefalmiron  [EN CONSTRUCCIÓN — primeros commits llegando...]
 
 ```bash
 ┌──(vanefalmiron㉿github)-[~]
-└─$ ./stats.sh --user vanefalmiron
-```
----
-
-```bash
-┌──(vanefalmiron㉿github)-[~]
 └─$ cat roadmap.log
 ```
 
